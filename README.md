@@ -4,7 +4,6 @@ Based on the information gathered, here is a professional and visually appealing
 
 # SQL Chatbot Local
 
-![Project Logo](https://avatars.githubusercontent.com/u/66054763?v=4)
 
 ![GitHub stars](https://img.shields.io/github/stars/paras28-05/sql_chatbot_local)
 ![GitHub issues](https://img.shields.io/github/issues/paras28-05/sql_chatbot_local)
@@ -20,11 +19,8 @@ Welcome to the SQL Chatbot Local repository! This project is designed to provide
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Configuration & Environment Variables](#configuration--environment-variables)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments & Credits](#acknowledgments--credits)
 - [Social & Contact](#social--contact)
 
 ## Features
@@ -72,9 +68,6 @@ Welcome to the SQL Chatbot Local repository! This project is designed to provide
 - "What is the average salary of employees in the sales department?"
 - "List the names of all departments."
 
-## Screenshots
-
-![Chatbot Screenshot](https://via.placeholder.com/800x400.png?text=SQL+Chatbot+Local+Screenshot)
 
 ## Configuration & Environment Variables
 
@@ -91,20 +84,9 @@ We welcome contributions! If you'd like to contribute, please follow these steps
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments & Credits
-
-Special thanks to all contributors who have helped improve this project.
-
 ## Social & Contact
 
 For any questions or suggestions, feel free to open an issue or contact the repository owner:
 
 - [GitHub Profile](https://github.com/paras28-05)
 
----
-
-Feel free to customize this README file further to suit your project's specific needs.

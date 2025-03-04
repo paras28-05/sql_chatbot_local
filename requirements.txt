@@ -1,0 +1,7 @@
+langchain
+openai
+langchain_ollama
+langchain_community
+langchain_huggingface
+langchain_core
+gradio
